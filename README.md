@@ -1,0 +1,2 @@
+# OficeMag
+MyFirstGit
